@@ -88,10 +88,10 @@ If you use this code in your research, please cite the following paper:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to contact **Ha An Le** at `lehaan@snu.ac.kr`.
+For questions or collaborations, feel free to contact **Ha An Le** at `anleha1997@gmail.com`.
 
 ---
 
 ## 📄 License
 
-This project is provided for academic and research purposes. Please check with the authors before using it for commercial applications.
+This project is provided for academic and research purposes. 
